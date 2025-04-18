@@ -2,8 +2,6 @@
 
 **Tagline**: *Your Vibe, AI-Curated*
 
-[![Mood Capsule Demo](https://img.shields.io/badge/Demo-Video-blue)](https://www.youtube.com/watch?v=hQgdjp05zaA&t=101s&ab_channel=HelloHello) 
-
 Mood Capsule is an AI-powered app that transforms your mood into a personalized experience. Tell us how you feel, pick a vibe, and in seconds, get a custom image, soundtrack, and tailored recommendations—all wrapped in a sleek, vibrant UI.
 
 ---
